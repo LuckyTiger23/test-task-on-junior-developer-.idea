@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1cbd7b9-26e0-4bcc-ba70-e26be2ca2010" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bot/bot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bot/bot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/css/style.bundle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/css/style.bundle.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/fonts/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/img/Form Elements.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/img/expand_more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/0.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/0.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/second.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/article.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/article_new.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/featured-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/img/dist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/img/visual_studio_code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/Cards.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/expand_more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fonts/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/Dropdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/RICH-CHECKBOX-BUTTONS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/block-dignities.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/bulletList.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/calendar-to-in.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/checkbox-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/comment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/email_input.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/expandable-checkbox-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/like-button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/logo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/mask-date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/paginator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/range-slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/rating-button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/text_field.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/includes/toggle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/html/views/second.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/Form Elements.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/expand_more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/js/rotebal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/logo.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/text-field.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/Toogle.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/bullet-list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/comment.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/dignities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/like-button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/mask-date.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/paginator.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/radio-button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/range-slide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/stars-rateButton.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/stars-rateButton2.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/scss/Новая папка/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Проекты - Ярлык.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MUqNREonO1nx7PS6Wtk0En78ca" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1cbd7b9-26e0-4bcc-ba70-e26be2ca2010" name="Changes" comment="" />
+      <created>1677832467721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677832467721</updated>
+      <workItem from="1677832469011" duration="1876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
